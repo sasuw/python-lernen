@@ -9,6 +9,9 @@ Einstieg läuft mit **Thonny auf einem Windows-PC**. Vorkenntnisse sind nicht n�
    führt von der Installation bis zum ersten eigenen Programm.
 2. Der [Lernplan](docs/lernplan.md) gibt eine mögliche Reihenfolge vor.
 3. In der [Spielwiese](spielwiese/README.md) ist Platz zum freien Ausprobieren.
+4. Für eigene Ideen fehlt oft ein Befehl. Wie man ihn selbst findet, steht im
+   Spickzettel unter [Selbst nachschlagen](docs/nachschlagen/python_spickzettel.md#selbst-nachschlagen);
+   weitere deutsche Kurse sammeln die [Materialien](docs/materialien.md).
 
 Für den Anfang reichen Thonny und dieser Ordner. Python ist im normalen
 Windows-Installer von Thonny enthalten. Git, eine Konsole und zusätzliche

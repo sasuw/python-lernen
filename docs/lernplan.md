@@ -21,6 +21,12 @@ das Zahlenratespiel muss nicht schon am ersten Tag fertig sein.
 4. Die Datei speichern. Bei größeren Änderungen vorher eine Kopie anlegen.
 5. Mit einem Satz festhalten: Was klappt schon? Welche Idee kommt als Nächstes?
 
+Braucht eine Idee einen neuen Befehl, zuerst selbst suchen: mit `help()` in der
+Shell, im Spickzettel unter [Selbst nachschlagen](nachschlagen/python_spickzettel.md#selbst-nachschlagen)
+oder bei den [nützlichen Modulen](nachschlagen/python_spickzettel.md#nützliche-module)
+wie `random` und `turtle`. Ab Etappe 3 lohnt sich auch ein Blick in die
+[Materialien](materialien.md).
+
 ## Für die Begleitung
 
 Die lernende Person bedient Tastatur und Maus und entscheidet über eigene
